@@ -1,3 +1,5 @@
+"use strict";
+
 let Shape = require('./shapesarea.js');
 
 class Triangle extends Shape {

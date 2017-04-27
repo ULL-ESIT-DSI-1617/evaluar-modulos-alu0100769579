@@ -1,3 +1,5 @@
+"use strict";
+
 let util = require('util');
 let Shape = require('./shapesarea.js');
 var Triangle = require('./triangle.js');

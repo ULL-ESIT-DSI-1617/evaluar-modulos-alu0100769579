@@ -1,3 +1,5 @@
+"use strict";
+
 let Shape = require('./shapesarea.js');
 class Rectangle extends Shape {
     constructor(options) {
